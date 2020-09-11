@@ -1,0 +1,12 @@
+{
+  "name": "eslint-bundle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "npm publish"
+  },
+  "repository": "git@github.com:rigami-org/eslint-bundle.git",
+  "author": "Danilkinkin <danilkinkin@gmail.com>",
+  "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
