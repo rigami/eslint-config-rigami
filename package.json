@@ -5,11 +5,11 @@
   "scripts": {
     "deploy": "npm publish"
   },
-  "repository": "git@github.com:rigami-org/eslint-bundle.git",
+  "repository": "https://github.com/rigami/eslint-config-rigami",
   "author": "Danilkinkin <danilkinkin@gmail.com>",
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@rigami-org"
+    "registry": "https://npm.pkg.github.com/@rigami"
   },
   "peerDependencies": {
     "eslint": ">=7.7.0"
@@ -18,14 +18,14 @@
     "eslint-config-airbnb": "^18.2.0",
     "eslint-import-resolver-node": "^0.3.4",
     "eslint-plugin-compat": "^3.8.0",
-    "eslint-plugin-import": "^2.22.0",
-    "eslint-plugin-jest": "^23.20.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.0",
     "eslint-plugin-json": "^2.1.2",
-    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-no-use-extend-native": "^0.5.0",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-react": "^7.20.6",
-    "eslint-plugin-react-hooks": "^4.1.0",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-sonarjs": "^0.5.0"
   }
 }
